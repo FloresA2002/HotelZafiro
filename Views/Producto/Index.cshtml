@@ -1,0 +1,28 @@
+﻿@model ProductoModel
+@{
+    ViewData["Title"] = "Información Productos";
+    Layout = "_LayoutDefault";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="css/stylebar.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css" crossorigin="anonymous">
+    <script src="js/bootstrap.min.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<div style="margin-left: 250px;"> <!-- Ajusta el valor del margen izquierdo según tus necesidades -->
+    <h1>Producto</h1>
+    <h2>Id: @Model.Id</h2>
+    <h2>Nombre del Producto: @Model.Nombre</h2>
+    <address>
+        <p><strong>Detalles: @Model.Detalle</strong></p>
+        <p><strong>Precio: @Model.Precio</strong></p>
+        <p><strong>Cantidad: @Model.Cantidad</strong></p>
+        <p><strong>Estado: @Model.Estado</strong></p>
+    </address>
+</div>
+</body>
+</html>

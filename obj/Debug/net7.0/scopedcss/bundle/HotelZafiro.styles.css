@@ -1,0 +1,343 @@
+/* _content/HotelZafiro/Views/Shared/HabitacionSimple.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-5hb6ogkz78] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-5hb6ogkz78] {
+  color: #0077cc;
+}
+
+.btn-primary[b-5hb6ogkz78] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-5hb6ogkz78], .nav-pills .show > .nav-link[b-5hb6ogkz78] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-5hb6ogkz78] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-5hb6ogkz78] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-5hb6ogkz78] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-5hb6ogkz78] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-5hb6ogkz78] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/HotelZafiro/Views/Shared/PersonaSimple.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-m7ibcpy9yv] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-m7ibcpy9yv] {
+  color: #0077cc;
+}
+
+.btn-primary[b-m7ibcpy9yv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-m7ibcpy9yv], .nav-pills .show > .nav-link[b-m7ibcpy9yv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-m7ibcpy9yv] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-m7ibcpy9yv] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-m7ibcpy9yv] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-m7ibcpy9yv] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-m7ibcpy9yv] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/HotelZafiro/Views/Shared/ProductoSimple.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-uejoac2itl] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-uejoac2itl] {
+  color: #0077cc;
+}
+
+.btn-primary[b-uejoac2itl] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-uejoac2itl], .nav-pills .show > .nav-link[b-uejoac2itl] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-uejoac2itl] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-uejoac2itl] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-uejoac2itl] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-uejoac2itl] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-uejoac2itl] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/HotelZafiro/Views/Shared/Simple.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-adfilohx8f] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-adfilohx8f] {
+  color: #0077cc;
+}
+
+.btn-primary[b-adfilohx8f] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-adfilohx8f], .nav-pills .show > .nav-link[b-adfilohx8f] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-adfilohx8f] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-adfilohx8f] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-adfilohx8f] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-adfilohx8f] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-adfilohx8f] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/HotelZafiro/Views/Shared/TipoPersonaSimple.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-9jqzsf787d] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-9jqzsf787d] {
+  color: #0077cc;
+}
+
+.btn-primary[b-9jqzsf787d] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-9jqzsf787d], .nav-pills .show > .nav-link[b-9jqzsf787d] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-9jqzsf787d] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-9jqzsf787d] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-9jqzsf787d] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-9jqzsf787d] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-9jqzsf787d] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/HotelZafiro/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-88g3o1nbm1] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-88g3o1nbm1] {
+  color: #0077cc;
+}
+
+.btn-primary[b-88g3o1nbm1] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-88g3o1nbm1], .nav-pills .show > .nav-link[b-88g3o1nbm1] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-88g3o1nbm1] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-88g3o1nbm1] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-88g3o1nbm1] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-88g3o1nbm1] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-88g3o1nbm1] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/HotelZafiro/Views/Shared/_LayoutDefault.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-nox5hxri54] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-nox5hxri54] {
+  color: #0077cc;
+}
+
+.btn-primary[b-nox5hxri54] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-nox5hxri54], .nav-pills .show > .nav-link[b-nox5hxri54] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-nox5hxri54] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-nox5hxri54] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-nox5hxri54] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-nox5hxri54] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-nox5hxri54] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

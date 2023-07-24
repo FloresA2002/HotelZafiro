@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HotelZafiro
+build_property.RootNamespace = HotelZafiro
+build_property.ProjectDir = C:\Users\User\Downloads\HotelZafiro2\HotelZafiro2\HotelZafiro\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\Downloads\HotelZafiro2\HotelZafiro2\HotelZafiro
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Gestion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VzdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Gestion/MultiHabitacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VzdGlvblxNdWx0aUhhYml0YWNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Persona/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Persona/MultiPersona.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxNdWx0aVBlcnNvbmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Producto/MultiProducto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cTXVsdGlQcm9kdWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Shared/LayoutLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/TipoPersona/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BlcnNvbmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/TipoPersona/MultiTipoPersonas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BlcnNvbmFcTXVsdGlUaXBvUGVyc29uYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/wwwroot/img/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Shared/HabitacionSimple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhhYml0YWNpb25TaW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5hb6ogkz78
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Shared/PersonaSimple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBlcnNvbmFTaW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-m7ibcpy9yv
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Shared/ProductoSimple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb2R1Y3RvU2ltcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-uejoac2itl
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Shared/Simple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-adfilohx8f
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Shared/TipoPersonaSimple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRpcG9QZXJzb25hU2ltcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-9jqzsf787d
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-88g3o1nbm1
+
+[C:/Users/User/Downloads/HotelZafiro2/HotelZafiro2/HotelZafiro/Views/Shared/_LayoutDefault.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-nox5hxri54

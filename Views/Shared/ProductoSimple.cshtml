@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Información Producto";
+    Layout = "_Layout";
+}
+<div>
+    <h1>Producto</h1>
+    <h3>ID Producto : @Model.Id</h3>
+    <h2>Nombre:@Model.Nombre </h2>
+    <h3>Detalle : @Model.Detalle</h3>
+    <h3>Precio : @Model.Precio</h3>
+    <h3>Cantidad : @Model.Cantidad</h3>
+    <h3>Estado : @Model.Estado</h3>
+@RenderBody()
+</div>

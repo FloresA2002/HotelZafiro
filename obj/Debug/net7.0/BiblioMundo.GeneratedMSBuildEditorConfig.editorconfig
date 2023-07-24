@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BiblioMundo
+build_property.RootNamespace = BiblioMundo
+build_property.ProjectDir = C:\Users\alfal\Downloads\login-wiliam\BiblioMundo\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\alfal\Downloads\login-wiliam\BiblioMundo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/Libro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/Libro/MultiLibro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9cTXVsdGlMaWJyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/Persona/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/Persona/MultiPersona.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxNdWx0aVBlcnNvbmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/TipoPersona/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BlcnNvbmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/TipoPersona/MultiTipoPersonas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BlcnNvbmFcTXVsdGlUaXBvUGVyc29uYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/Shared/LibroSimple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExpYnJvU2ltcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-0u5ljq1jse
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/Shared/PersonaSimple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBlcnNvbmFTaW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-en0bpihuvl
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/Shared/Simple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-7knpn7pc9m
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/Shared/TipoPersonaSimple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRpcG9QZXJzb25hU2ltcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-7fqf7ipnjo
+
+[C:/Users/alfal/Downloads/login-wiliam/BiblioMundo/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zg7sth5tgd

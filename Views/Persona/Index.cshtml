@@ -1,0 +1,30 @@
+﻿@model PersonaModel
+@{
+    ViewData["Title"] = "Información Persona";
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="css/stylebar.css">
+    <style>
+        .content-container {
+            margin-left: 250px; /* Ajusta el valor del margen izquierdo según tus necesidades */
+        }
+    </style>
+</head>
+<body>
+<div class="content-container">
+    <h1>Persona</h1>
+    <h2>Id: @Model.Id</h2>
+    <h2>Nombre: @Model.Nombre</h2>
+    <address>
+        <p><strong>Apellido: @Model.Apellido</strong></p>
+        <p><strong>Correo: @Model.Correo</strong></p>
+        <p><strong>Clave: @Model.Clave</strong></p>
+        <p><strong>Fecha Creación: @Model.FechaCreacion</strong></p>
+    </address>
+</div>
+</body>
+</html>

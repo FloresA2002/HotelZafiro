@@ -1,0 +1,245 @@
+/* _content/BiblioMundo/Views/Shared/LibroSimple.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-0u5ljq1jse] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-0u5ljq1jse] {
+  color: #0077cc;
+}
+
+.btn-primary[b-0u5ljq1jse] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-0u5ljq1jse], .nav-pills .show > .nav-link[b-0u5ljq1jse] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-0u5ljq1jse] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-0u5ljq1jse] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-0u5ljq1jse] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-0u5ljq1jse] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-0u5ljq1jse] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/BiblioMundo/Views/Shared/PersonaSimple.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-en0bpihuvl] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-en0bpihuvl] {
+  color: #0077cc;
+}
+
+.btn-primary[b-en0bpihuvl] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-en0bpihuvl], .nav-pills .show > .nav-link[b-en0bpihuvl] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-en0bpihuvl] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-en0bpihuvl] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-en0bpihuvl] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-en0bpihuvl] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-en0bpihuvl] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/BiblioMundo/Views/Shared/Simple.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-7knpn7pc9m] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-7knpn7pc9m] {
+  color: #0077cc;
+}
+
+.btn-primary[b-7knpn7pc9m] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-7knpn7pc9m], .nav-pills .show > .nav-link[b-7knpn7pc9m] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-7knpn7pc9m] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-7knpn7pc9m] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-7knpn7pc9m] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-7knpn7pc9m] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-7knpn7pc9m] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/BiblioMundo/Views/Shared/TipoPersonaSimple.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-7fqf7ipnjo] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-7fqf7ipnjo] {
+  color: #0077cc;
+}
+
+.btn-primary[b-7fqf7ipnjo] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-7fqf7ipnjo], .nav-pills .show > .nav-link[b-7fqf7ipnjo] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-7fqf7ipnjo] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-7fqf7ipnjo] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-7fqf7ipnjo] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-7fqf7ipnjo] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-7fqf7ipnjo] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/BiblioMundo/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-zg7sth5tgd] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-zg7sth5tgd] {
+  color: #0077cc;
+}
+
+.btn-primary[b-zg7sth5tgd] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-zg7sth5tgd], .nav-pills .show > .nav-link[b-zg7sth5tgd] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-zg7sth5tgd] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-zg7sth5tgd] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-zg7sth5tgd] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-zg7sth5tgd] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-zg7sth5tgd] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

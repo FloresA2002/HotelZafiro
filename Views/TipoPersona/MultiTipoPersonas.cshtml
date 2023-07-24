@@ -1,0 +1,46 @@
+﻿@model List<TipoPersonaModel>
+
+@{
+    ViewData["Title"] = "MultiPersonas";
+}
+
+<table class="table table-white table-hover">
+    <thead>
+        <tr>
+            <th scope="col">
+                ID
+            </th>
+            <th scope="col">
+                DESCRIPCION
+            </th>
+            <th scope="col">
+                FECHA CREACIÓN
+            </th>
+            <th scope="col">
+                ID PERSONA
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var personas in Model)
+        {
+            <tr>
+
+                <td>
+                    @personas.Id
+                </td>
+                <td>
+                    @personas.Descripcion
+                </td>
+                <td>
+                    @personas.FechaCreacion
+                </td>
+                <td>
+                    @personas.PersonaId
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

@@ -1,0 +1,29 @@
+﻿@model HabitacionModel
+@{
+    ViewData["Title"] = "Información Habitacion";
+    Layout = "_LayoutDefault";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="css/stylebar.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css" crossorigin="anonymous">
+    <script src="js/bootstrap.min.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div style="margin-left: 250px;">
+        <!-- Ajusta el valor del margen izquierdo según tus necesidades -->
+        <h1>Habitacion</h1>
+        <h2>Id: @Model.Id</h2>
+        
+        <address>
+            <p><strong>Detalles: @Model.Detalle</strong></p>
+            <p><strong>Categoria: @Model.categoria</strong></p>
+            <p><strong>Precio: @Model.precio</strong></p>
+            
+        </address>
+    </div>
+</body>
+</html>

@@ -1,0 +1,60 @@
+﻿@model List<PersonaModel>
+
+@{
+    ViewData["Title"] = "Multi Persona";
+    Layout = "_LayoutDefault";
+}
+
+<table class="table table-white table-hover">
+    <thead>
+        <tr>
+            <th scope="col">
+                ID
+            </th>
+            <th scope="col">
+                NOMBRE
+            </th>
+            <th scope="col">
+                APELLIDO
+            </th>
+            <th scope="col">
+                CORREO
+            </th>
+            <th scope="col">
+                CLAVE
+            </th>
+            <th scope="col">
+                AÑO CREACIÓN
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var persona in Model)
+        {
+            <tr>
+
+                <td>
+                    @persona.Id
+                </td>
+                <td>
+                    @persona.Nombre
+                </td>
+                <td>
+                    @persona.Apellido
+                </td>
+                <td>
+                    @persona.Correo
+                </td>
+                <td>
+                    @persona.Clave
+                </td>
+                <td>
+                    @persona.FechaCreacion
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+
